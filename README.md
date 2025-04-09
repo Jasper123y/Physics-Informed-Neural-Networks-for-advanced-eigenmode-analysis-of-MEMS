@@ -19,6 +19,11 @@ For implementation:
 3. Trained models, refer to files in the folder "Trained Models"
 4. Residual plotting, refer to "plot_residuals.ipynb"
 
+👥 Authors & Contact
+For questions or collaboration opportunities, contact:
+📧 jiapeng.xu@silicon-austria.com
+📧 tingzhong.xu@silicon-austria.com
+
 
 © 2025 IEEE. Personal use of this material is permitted. 
 Permission from IEEE must be obtained for all other uses, in any current or future media, 

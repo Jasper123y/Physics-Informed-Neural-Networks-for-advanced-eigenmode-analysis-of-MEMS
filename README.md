@@ -14,9 +14,9 @@ Our results demonstrate that physics-informed learning can serve as a powerful a
 
 For implementation:
 
-1. Model training, refer to file CNN (unet) for regression-orth6modes.ipynb
-2. Prediction using H5 file, refer to file H5Prediction.ipynb
-3. Trained models, refer to files regression_3phys_n_orth6modes.h5
-4. Residual plotting, refer to plot_residuals.ipynb
+1. Model training, refer to file "CNN (unet) for regression-orth6modes.ipynb"
+2. Prediction using H5 file, refer to file "H5Prediction.ipynb"
+3. Trained models, refer to files in the folder "Trained Models"
+4. Residual plotting, refer to "plot_residuals.ipynb"
 
 
